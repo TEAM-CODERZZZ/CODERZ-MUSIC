@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 𝐑𝐞𝐬𝐬𝐨 𝐗 𝐌𝐮𝐬𝐢𝐜」──
+    ──「 𝐑𝐞𝐬𝐬𝐨 𝐗 𝐌𝐮𝐬𝐢𝐜 」──
 </h2>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="center">
-    ─「 𝐃𝐞𝐩𝐥𝐨𝐲 𝐎𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 」─
+    ─「 𝗗𝗲𝗽𝗹𝗼𝘆 𝗢𝗻 𝗛𝗲𝗿𝗼𝗸𝘂 」─
 </h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TEAM-CODERZZZ/CODERZ-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
@@ -57,7 +57,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
-    ─「 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 」─
+    ─「 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 」─
 </h3>
 
 <p align="center">
